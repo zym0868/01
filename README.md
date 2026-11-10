@@ -1,5 +1,5 @@
-F-CGPM
-This is a demo of the F-CGPM for solving large-scale constrained nonlinear equations
+F-DFPM
+This is a demo of the F-DFPM for solving large-scale constrained nonlinear equations
 
 [ F(x)=0,\quad x\in C, ]
 where (C) is a nonempty closed convex set.
